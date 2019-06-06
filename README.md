@@ -1,6 +1,7 @@
 # Build K8s Cluster using kubespray
 
 >k8s version: 1.13.5 & kubespray version: 2.9.0
+
 >k8s version: 1.14.0 & kubespray version: 2.10.0
 
 ## edit `.ini` in your inventory
